@@ -1,0 +1,6 @@
+/Users/twilightreign/Projects/consoleapp1/consoleapp1/bin/Debug/consoleapp1.exe
+/Users/twilightreign/Projects/consoleapp1/consoleapp1/bin/Debug/consoleapp1.pdb
+/Users/twilightreign/Projects/consoleapp1/consoleapp1/obj/Debug/consoleapp1.csproj.AssemblyReference.cache
+/Users/twilightreign/Projects/consoleapp1/consoleapp1/obj/Debug/consoleapp1.csproj.CoreCompileInputs.cache
+/Users/twilightreign/Projects/consoleapp1/consoleapp1/obj/Debug/consoleapp1.exe
+/Users/twilightreign/Projects/consoleapp1/consoleapp1/obj/Debug/consoleapp1.pdb
