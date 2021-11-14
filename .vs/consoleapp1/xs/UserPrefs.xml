@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{66FE40E2-66DA-444E-9BD9-AB0B05A40910}|Default">
-  <MonoDevelop.Ide.ItemProperties.consoleapp1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="consoleapp1/Program.cs">
-    <Files>
-      <File FileName="consoleapp1/Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.consoleapp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="consoleapp1" expanded="True">
             <Node name="consoleapp1" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="References" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
